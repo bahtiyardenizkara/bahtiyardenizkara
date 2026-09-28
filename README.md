@@ -1,1 +1,1 @@
-Hello, my name is Bahtiyar Deniz KARA. I' a freshman at Bilkent University and I'm majoring in Computer Science and Engineering. I like programming which is why I chose this field. I'm from Artvin, a small town on the coast of The Black Sea. My goal is to become a game developer.
+Hello, my name is Bahtiyar Deniz KARA. I'm a freshman at Bilkent University and I'm majoring in Computer Science and Engineering. I like programming which is why I chose this field. I'm from Artvin, a small town on the coast of The Black Sea. My goal is to become a game developer.
